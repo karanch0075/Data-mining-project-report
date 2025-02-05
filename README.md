@@ -1,7 +1,7 @@
 # Data-mining-project-report
 
 <b>Project Overview</b><br>
-This repository includes implementations and reports for Data Mining practicals in the 5th semester. The project covers various techniques, including clustering, text mining, classification, and outlier detection.<br>
+This repository includes implementations and reports for Data Mining practicals. The project covers various techniques, including clustering, text mining, classification, and outlier detection.<br>
 <br>
 <b>Practicals Covered</b><br>
 <b>Clustering Algorithms</b> (Partitioning, Hierarchical, Density-Based),
